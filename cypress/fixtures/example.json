@@ -1,0 +1,7 @@
+{
+  "login_page_url": "https://cabinet.planetakino.ua/auth",
+  "cabinet_url": "https://cabinet.planetakino.ua/",
+  "showtimes_url": "https://planetakino.ua/lvov2/showtimes/#today",
+  "movies_url": "https://planetakino.ua/lvov2/movies/",
+  "favorite-movies_url": "https://cabinet.planetakino.ua/profile/favorite-movies"
+}
